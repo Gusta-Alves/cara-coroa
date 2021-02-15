@@ -1,0 +1,12 @@
+.barra-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .barra{
+        background-color: aqua;
+        height: 20px;
+        width: 0px;
+    }
+}
